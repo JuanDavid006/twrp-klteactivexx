@@ -12,3 +12,5 @@ Supported Device List:
 Tell me if it works with your model and I'll update the supported device list.
 
 TWRP device tree also provided here.
+
+![s5active](https://github.com/user-attachments/assets/b3f28f2f-cc4c-4186-aa8a-76f8df5e0a6f)
