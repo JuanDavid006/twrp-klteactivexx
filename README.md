@@ -1,5 +1,5 @@
-# twrp-klteactivexx
-Unofficial TWRP recovery for Samsung Galaxy S5 Active (klteactivexx). Specifically the SM-G870W model (kltecanactive).
+# twrp-kltecanactive
+Unofficial TWRP recovery for Samsung Galaxy S5 Active (SM-G870x). Specifically the SM-G870W model (kltecanactive).
 
 Built from source, based from the original recovery image using the official TWRP manifest: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni/tree/twrp-6.0
 
