@@ -5,7 +5,7 @@ Built from source, based from the original recovery image using the official TWR
 
 It might not work with your device if you don't own the SM-G870W model. Use at your own risk.
 
-There's three variants for the Samsung Galaxy S5 Active "A" "W" and "F". The latter one being the most popular and the most maintained, and the "A" variant has a locked bootloader sooo...
+There's three variants for the Samsung Galaxy S5 Active: "A" "W" and "F". The latter one being the most popular and the most maintained, and the "A" variant has a locked bootloader sooo...
 
 Supported Device List:
 
